@@ -1,0 +1,12 @@
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\bin\Debug\net7.0\SharedDomain.deps.json
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\bin\Debug\net7.0\SharedDomain.dll
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\bin\Debug\net7.0\SharedDomain.pdb
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\obj\Debug\net7.0\SharedDomain.csproj.AssemblyReference.cache
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\obj\Debug\net7.0\SharedDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\obj\Debug\net7.0\SharedDomain.AssemblyInfoInputs.cache
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\obj\Debug\net7.0\SharedDomain.AssemblyInfo.cs
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\obj\Debug\net7.0\SharedDomain.csproj.CoreCompileInputs.cache
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\obj\Debug\net7.0\SharedDomain.dll
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\obj\Debug\net7.0\refint\SharedDomain.dll
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\obj\Debug\net7.0\SharedDomain.pdb
+D:\SOUCE_CODE\C#\StockMarketApi\src\SharedDomain\obj\Debug\net7.0\ref\SharedDomain.dll

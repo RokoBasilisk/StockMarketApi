@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Core",
+    "\\src\\Core\\Application",
+    "\\src\\Infrastructure",
+    "\\src\\Infrastructure\\Services"
+  ],
+  "SelectedNode": "\\StockMarketApi.sln",
+  "PreviewInSolutionExplorer": false
+}
